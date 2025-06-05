@@ -2,7 +2,7 @@
 
 This is a simple, responsive website built using **HTML**, **CSS**, and **Bootstrap 5**. The purpose of this project is to practice and demonstrate basic front-end development skills using modern design principles and responsive layouts.
 
-## 🖥 Live Demo
+##  Live Demo
 
 [🔗 Click here to view the live website](https://harshi-khandelwal.github.io/website_1_bootstrap_/)
 
